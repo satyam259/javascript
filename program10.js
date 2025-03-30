@@ -14,4 +14,4 @@ const b = [
   { name: "banana", price: 20 },
 ];
 const c = sortDrinkByPrice(b);
-console.log(c);
+console.log(c, "sort an array of objects on basis of price");

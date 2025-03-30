@@ -18,4 +18,7 @@ function minMax(arr) {
   return minmax;
 }
 const a = minMax([1, 4, 0, 3, 9]);
-console.log(a);
+console.log(
+  a,
+  "function that takes an array of numbers and return both the minimum and maximum numbers, in that order"
+);
